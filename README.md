@@ -29,7 +29,8 @@
               A collection of reusable React components styled with Material-UI and Bootstrap.
               Includes examples for forms, modals, and dashboards.
 
-🌱 What I’m Learning -
+🌱 What I’m Learning:
+
       * Advanced React concepts (Context API, React Query).
       * AWS services for deployment and scalability.
       * LLM-Powered Document Search (RAG Model)
