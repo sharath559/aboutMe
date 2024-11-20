@@ -33,15 +33,15 @@
       * Advanced React concepts (Context API, React Query).
       * AWS services for deployment and scalability.
       * LLM-Powered Document Search (RAG Model)
-        -Developed a Retrieval-Augmented Generation (RAG) model using Mistral to process PDFs and extract key insights.
-        -Designed workflows in Dataiku for preprocessing and analysis of large datasets.
-        -Integrated APIs to deliver AI-enhanced search capabilities for structured and unstructured data.
+        - Developed a Retrieval-Augmented Generation (RAG) model using Mistral to process PDFs and extract key insights.
+        - Designed workflows in Dataiku for preprocessing and analysis of large datasets.
+        - Integrated APIs to deliver AI-enhanced search capabilities for structured and unstructured data.
 
       
 📫 Let’s Connect
-      Email: sharathy59@gmail.com
-      LinkedIn: Sharath Chandra
-      Portfolio: My Portfolio
+      - Email: sharathy59@gmail.com
+      - LinkedIn: Sharath Chandra
+      - Portfolio: My Portfolio
 
 
 ⚡ Fun Fact
