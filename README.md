@@ -10,7 +10,8 @@
         Tools: Git, Jenkins, Docker, AWS, Selenium
         Other Skills: Agile Development, TDD, CI/CD
 
-📁 Projects
+📁 Projects:
+
       1. Provider Portal (MERN Stack)
       Built a user-friendly portal for managing providers using React.js and Node.js.
       Used Redux for state management and MongoDB for database storage.
