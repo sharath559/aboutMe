@@ -13,12 +13,12 @@
 📁 Projects:
 
       1. Provider Portal (MERN Stack)
-      Built a user-friendly portal for managing providers using React.js and Node.js.
-      Used Redux for state management and MongoDB for database storage.
+              Built a user-friendly portal for managing providers using React.js and Node.js.
+              Used Redux for state management and MongoDB for database storage.
       Key Features:
-        Authentication using JWT.
-        RESTful APIs for CRUD operations.
-        Responsive UI with Material-UI components.
+                Authentication using JWT.
+                RESTful APIs for CRUD operations.
+                Responsive UI with Material-UI components.
 
       2. API Showcase
               Developed a library of REST APIs for various use cases with Node.js and Express.js.
