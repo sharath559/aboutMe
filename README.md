@@ -20,19 +20,23 @@
         Responsive UI with Material-UI components.
 
       2. API Showcase
-      Developed a library of REST APIs for various use cases with Node.js and Express.js.
-      Included JWT-based authentication and database integration with MongoDB.
-      Documented APIs using Swagger.
+              Developed a library of REST APIs for various use cases with Node.js and Express.js.
+              Included JWT-based authentication and database integration with MongoDB.
+              Documented APIs using Swagger.
     
       3. React Component Library
-      A collection of reusable React components styled with Material-UI and Bootstrap.
-      Includes examples for forms, modals, and dashboards.
+              A collection of reusable React components styled with Material-UI and Bootstrap.
+              Includes examples for forms, modals, and dashboards.
 
-🌱 What I’m Learning
-      Advanced React concepts (Context API, React Query).
-      AWS services for deployment and scalability.
+🌱 What I’m Learning -
+      * Advanced React concepts (Context API, React Query).
+      * AWS services for deployment and scalability.
+      * LLM-Powered Document Search (RAG Model)
+        -Developed a Retrieval-Augmented Generation (RAG) model using Mistral to process PDFs and extract key insights.
+        -Designed workflows in Dataiku for preprocessing and analysis of large datasets.
+        -Integrated APIs to deliver AI-enhanced search capabilities for structured and unstructured data.
 
-
+      
 📫 Let’s Connect
       Email: sharathy59@gmail.com
       LinkedIn: Sharath Chandra
